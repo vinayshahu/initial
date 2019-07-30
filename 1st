@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Vinay Shaw </title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td> <img src="https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-1/c0.0.480.480a/p480x480/62436663_2089079238051964_112838858269261824_n.jpg?_nc_cat=103&_nc_oc=AQkqESnzi7gAUyroVWLcifxJ6c8PeeoTAnIpXtyAivXC_gDQ8K5lMYn77ucPMBUNRqA&_nc_ht=scontent.fccu3-1.fna&oh=e256bbb9a9e02573d28eaf0a8bebcf93&oe=5DDC4F1E" alt="">
+    </td>  <td>
+        <img src="" alt="">
+        <h1>Vinay Shaw</h1>
+        <h3>Department of <a href=" https://en.wikipedia.org/wiki/Computer_science">Computer Science and Engineering</a> </h3> <p>2nd Year</p>
+        <p>
+          <strong><a href="https://nit.ac.in/">Narula institute of technology</a></strong>
+        </p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <h4>Born</h4>
+
+  <ul>
+    <li> Kolkata,West Bengal</li>
+  </ul>
+  <h4>Residence</h4>
+  <ul>
+    <li>Gorakhpur,Uttar Pradesh</li>
+  </ul>
+  <h4>Citizenship</h4>
+  <ul>
+    <li>India</li>
+  </ul>
+  <h4>Alma mater</h4>
+  <table border="1">
+    <tr>
+      <th>
+        Year
+      </th>
+      <th>School/college</th>
+    </tr>
+    <tr>
+
+      <td> 2010-2014</td>
+      <td>
+        Royal Public School
+      </td>
+    </tr>
+
+    <td>
+      2014-2016
+    </td>
+    <td>
+      Madhav Public School
+    </td>
+    <tr>
+
+      <td>
+        2016-2018
+      </td>
+      <td>
+        Maa Bharti Public School
+      </td>
+    </tr>
+    <tr>
+
+      <td>
+        2018-2022
+      </td>
+      <td>
+        Narula Institute of Technology
+      </td>
+    </tr>
+  </table>
+  <h4>Parents</h4>
+  <ul>
+    Narsingh Shaw(Father)<br>
+    Renu Devi(Mother)
+  </ul>
+  <h3>Skills</h3>
+  <table border="1">
+    <tr>
+      <td>C proggramming</td>
+      <td>⭐️⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Data Science</td>
+      <td>⭐️⭐️⭐️⭐️⭐️</td>
+
+    </tr>
+  </table>
+  <br>
+  <!--<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Contact</title>
+</head>
+
+<body>
+  <p>Address:-Tiyar,Kauriram,Gorakhpur,Uttar Pradesh</p>
+  <p>E-mail:-vinayshaw544@gmail.com</p>
+  <p>Mobile no.:-6291110546</p>
+
+
+<form class="" action="index.html" method="post">
+  <label>Your Name:-</label>
+<input type="text" name="" value="">
+<label>Your email:-</label><br>
+<input type="Your message" name="" value="">
+<textarea name="name" rows="8" cols="80"></textarea>
+
+<br>
+<input type="checkbox" name="" value="">
+<label>Are you agree </label><br>
+<input type="submit" name="""">
+
+</form>
+
+</body>
+
+</html>
+
+-->
+  <a href="detail.html">Contact me</a>
+
+</body>
+
+</html>
